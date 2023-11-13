@@ -11,19 +11,17 @@ Bonus: Wenhan
 4. Create a training set and a test set, make sure iid.
 5. Find references.
 6. Writing theory. 
-6.5. Hyperparameter optimization + cross validation.
+6.5. Hyperparameter optimization + cross validation. (sklearn.model_selection.cross_validate)
 7. Create plots.
 8. Write discussion.
 9. Write introduction.
 10. Write conclusions. 
-11. 
-12. 
- 
-
 
 First deadline 12/11-2023 23:59
 
 # Review
 
 
-# 
+# Second draft
+
+
